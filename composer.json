@@ -1,0 +1,15 @@
+{
+    "name": "driebit/dbSymfony2ConfigPlugin",
+    "description": "Import Symfony2 parameters into a Symfony1 app",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David de Boer",
+            "email": "david@driebit.nl"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "type": "symfony1-plugin"
+}

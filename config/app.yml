@@ -1,0 +1,3 @@
+all:
+  symfony2_config:
+    prefix: sf_2
